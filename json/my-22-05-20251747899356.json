@@ -1,0 +1,23 @@
+[
+    {
+        "id": "1",
+        "name": "vivek sharma",
+        "age": "28",
+        "gender": "male",
+        "country": "ind"
+    },
+    {
+        "id": "2",
+        "name": "arun",
+        "age": "31",
+        "gender": "male",
+        "country": "ind"
+    },
+    {
+        "id": "3",
+        "name": "Amit",
+        "age": "33",
+        "gender": "male",
+        "country": "ind"
+    }
+]
